@@ -57,7 +57,7 @@ Recomendo utilizar IntelliJ
    `git clone https://github.com/marcos3777/globalJava`
 
 2. Navegue até o diretório do projeto:  
-   `cd java`
+   `cd globalJava`
 
 3. Abre com IntelliJ de preferencia
 
